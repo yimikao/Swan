@@ -3,7 +3,7 @@ import requests
 import json
 
 
-# Create your views here.
+# Create your views here.;l;'
 
 def index(request):
     return HttpResponse('request')
